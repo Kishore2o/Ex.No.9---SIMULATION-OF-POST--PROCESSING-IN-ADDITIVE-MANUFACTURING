@@ -46,12 +46,12 @@
 ![123_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/2801d001-e6cd-4b6c-9d5f-712067d3bc3c)
 
 ## Output:
+![image](https://github.com/Kishore2o/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/118679883/253cd963-3a0d-480e-b403-e95a63652f6a)
 
-![image](https://github.com/Kishore2o/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/118679883/6ab281f9-8f26-464a-85ef-f42bb2678a1d)
+![image](https://github.com/Kishore2o/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/118679883/c667218c-1d5f-4525-a12f-4a3a93bcea18)
 
-![image](https://github.com/Kishore2o/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/118679883/4c170af1-a862-48de-8f07-fa1d22d6fa74)
+![image](https://github.com/Kishore2o/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/118679883/66517dd5-be74-4bda-8bd8-c530438a43a0)
 
-![image](https://github.com/Kishore2o/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/118679883/f677cd82-2060-4b09-aace-1db16c19f204)
 
 ### Name: S.Kishore
 ### Register Number: 212222240050
